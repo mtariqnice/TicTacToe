@@ -1,0 +1,9 @@
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.cache
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\mtari\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
